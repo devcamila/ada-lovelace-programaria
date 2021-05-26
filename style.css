@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;   
+    font-family: Open Sans, sans-serif;
+    background-color: #E9967A;  
+    border: 6px solid lightgoldenrodyellow; 
+    color: #ffffff;
+    background-position: center;
+} 
+
+.titulo {
+    font-size: 30px;
+    padding: 15px;
+    color: black
+}
+
+.tituloAda {
+    font-size: 50px;
+    padding: 15px;
+    font-style: italic;
+    color: #9b543d;
+}
+
+.sub {
+    color: rgb(70, 74, 78);
+    margin-bottom: 5px;
+
+}
+
+.texto {
+    font-size: 15px;
+    color: lightgoldenrodyellow;
+    margin-bottom: 10px;
+}
+
+ .subtitulo {
+     color: #9b543d;
+     font-size: 20px;
+     margin:20px;
+ }
+
+ .imagem {
+    border: 3px solid lightgoldenrodyellow;
+    margin: 15px;
+ }
+
+ .links {
+     text-decoration: none;
+     color: white;
+     margin-bottom: 30px;
+ }
+
+ .links :hover {
+     color: rgb(70, 74, 78);
+ }
+ 
+ a {
+     color:inherit
+ }
+
