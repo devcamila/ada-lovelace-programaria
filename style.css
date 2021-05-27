@@ -11,56 +11,61 @@ body {
     background-color: #E9967A;  
     border: 6px solid lightgoldenrodyellow; 
     color: #ffffff;
-    background-position: center;
+   
 } 
 
 .titulo {
-    font-size: 30px;
-    padding: 15px;
+    font-size: 60px;
+    font-weight: 300;
     color: black
 }
 
 .tituloAda {
-    font-size: 50px;
-    padding: 15px;
-    font-style: italic;
+    font-size: 40px;    
     color: #9b543d;
 }
 
 .sub {
     color: rgb(70, 74, 78);
-    margin-bottom: 5px;
-
+    font-size: 22px;
+    font-style: italic;
 }
 
 .texto {
-    font-size: 15px;
+    font-size: 20px;
     color: lightgoldenrodyellow;
-    margin-bottom: 10px;
+    line-height: 1,5;
 }
 
  .subtitulo {
      color: #9b543d;
-     font-size: 20px;
-     margin:20px;
+     font-size: 22px;
+     font-style: italic;
  }
 
  .imagem {
-    border: 3px solid lightgoldenrodyellow;
-    margin: 15px;
+    border: 3px solid lightgoldenrodyellow;   
+    width: 100%; 
  }
 
- .links {
-     text-decoration: none;
-     color: white;
-     margin-bottom: 30px;
+ ul{
+     color: white;     
  }
 
- .links :hover {
+ ul :hover {
      color: rgb(70, 74, 78);
  }
  
  a {
-     color:inherit
+     color:inherit;
+     font-weight: 700;
+     line-height: 2;
+}
+
+ section {
+     max-width: 60%;
+     margin:0 auto;
+  
+  
  }
 
