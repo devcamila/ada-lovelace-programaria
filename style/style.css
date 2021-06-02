@@ -99,12 +99,16 @@ section section {
 }
 
 h4{
-    color: #753b27;
+    color: #bb735b;
+    font-size: 20px;
 }
 
 form {
     color:lightgoldenrodyellow;
     line-height: 1.5;
+    background-color: rgb(70, 74, 78);
+    ;
+    padding-top: 20px;
 }
 
 button {
